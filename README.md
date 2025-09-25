@@ -1,4 +1,4 @@
-# ElevateLabs - Task 3: Infrastructure as Code (IaC) with Terraform
+# Infrastructure as Code (IaC) with Terraform (ElevateLabs : Task 3)
 This repository contains the solution for Task 3 of the DevOps Internship. The objective is to use Terraform to provision and manage a local Docker container, demonstrating a fundamental understanding of Infrastructure as Code (IaC) principles.
 
 ---
